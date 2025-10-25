@@ -140,7 +140,7 @@ Frontend powered by **Bootstrap 5** and **SweetAlert2**.
 
 ## 🛡️ License
 
-© [Your Name / Company], [Year].
+© [Zulkarnain Inamdar], [Year].
 All Rights Reserved.
 This repository is for informational and educational use only.
 Unauthorized copying, modification, or distribution is prohibited.
